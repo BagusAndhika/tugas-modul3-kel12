@@ -27,6 +27,19 @@
 .App-link {
   color: #61dafb;
 }
+.container {
+  margin: 10px 550px 10px 550px;
+  background: rgba(0, 195, 255, 0.3);
+}
+.list {
+  text-align: left;
+}
+.button {
+  margin: 5px;
+}
+h1, h2, h3, h4, h5, h6, p, div {
+  font-family: "Lucida Grande";
+}
 
 @keyframes App-logo-spin {
   from {
